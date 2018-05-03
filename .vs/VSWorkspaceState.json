@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vidly",
+    "\\Vidly\\Vidly",
+    "\\Vidly\\Vidly\\App_Start",
+    "\\Vidly\\Vidly\\Content",
+    "\\Vidly\\Vidly\\Controllers",
+    "\\Vidly\\Vidly\\Views",
+    "\\Vidly\\Vidly\\Views\\Movies"
+  ],
+  "SelectedNode": "\\Vidly\\Vidly\\Content\\Site.css",
+  "PreviewInSolutionExplorer": false
+}
