@@ -65,7 +65,8 @@ C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\bin\Microsoft.AI
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\bin\Microsoft.AI.Web.xml
-C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\dennis\Desktop\complete-aspnet-mvc5-course\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
